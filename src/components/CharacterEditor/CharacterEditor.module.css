@@ -4,6 +4,7 @@
 }
 
 .maxWidthWrapper {
+  position: relative;
 }
 
 .header {
@@ -29,6 +30,7 @@
   min-height: 500px;
   top: 128px;
   right: 32px;
+  bottom: 152px;
   width: 35%;
 }
 
